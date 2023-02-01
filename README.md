@@ -1,6 +1,5 @@
 # usestate-background-color
 An implementation of Figma file with html, css and Tailwindcss
-
 ## Prequisite
 - Your browser version should be up to date for better experience
 

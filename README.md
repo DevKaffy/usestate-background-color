@@ -22,6 +22,9 @@ An implementation of Figma file with html, css and Tailwindcss
 
 ![screenshot](/public/images/Screenshot%20from%202023-02-01%2016-23-35.png)
 
+![screenshot](/public/images/Screenshot%20from%202023-02-01%2016-23-49.png)
+
+
 
 ## Contact
 If you want to contact me you can reach me at

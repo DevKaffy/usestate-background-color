@@ -10,10 +10,11 @@ function App() {
         background: color,
         display: "flex",
         padding: "auto",
-        columnGap: "1rem",
+        columnGap: "2rem",
         alignItems: "flex-end",
         justifyContent: "center",
         padding: '0 2rem 5rem 2rem',
+
       }}
     >
       <button

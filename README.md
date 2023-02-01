@@ -14,14 +14,14 @@ An implementation of Figma file with html, css and Tailwindcss
 ## Preview here
 [Go Live](https://bgcolor-changing.netlify.app/)
 
-![screenshot](/public/images/Screenshot%20from%202023-02-01%2016-23-11.png)
+![screenshot](/public/images/Screenshot%20from%202023-02-01%2016-23-49.png)
 
 ![screenshot](/public/images/Screenshot%20from%202023-02-01%2016-23-23.png)
 
 ![screenshot](/public/images/Screenshot%20from%202023-02-01%2016-23-35.png)
 
-![screenshot](/public/images/Screenshot%20from%202023-02-01%2016-23-49.png)
 
+![screenshot](/public/images/Screenshot%20from%202023-02-01%2016-23-11.png)
 ## Contact
 If you want to contact me you can reach me at
 - https://github.com/DevKaffy or

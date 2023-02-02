@@ -8,6 +8,7 @@ An implementation of Figma file with html, css and Tailwindcss
 
 ## Tech/framework used
 - Html
+- React
 - Css
 - TailwindCss
 
